@@ -1,0 +1,66 @@
+[
+    {
+        "item_id": 1,
+        "title": "JAVA",
+        "author": "Seemer",
+        "available": "Book",
+        "genre": "M2023",
+        "type": "Book"
+    },
+    {
+        "item_id": 2,
+        "title": "Data structure",
+        "author": "Ali",
+        "available": "Book",
+        "genre": "M2024",
+        "type": "Book"
+    },
+    {
+        "item_id": 3,
+        "title": "JAVA",
+        "author": "rani",
+        "available": "Dvd",
+        "duration": "M2035",
+        "type": "DVD"
+    },
+    {
+        "item_id": "4",
+        "title": "JAVA",
+        "author": "khalid",
+        "available": "Magazine",
+        "issue": "M13",
+        "type": "Magazine"
+    },
+    {
+        "item_id": "5",
+        "title": "JAVA",
+        "author": "Ali",
+        "available": "Book",
+        "genre": "EEE",
+        "type": "Book"
+    },
+    {
+        "item_id": "6",
+        "title": "jjj",
+        "author": "aa",
+        "available": "Book",
+        "genre": "qqq",
+        "type": "Book"
+    },
+    {
+        "item_id": "7",
+        "title": "www",
+        "author": "qqq",
+        "available": "aaa",
+        "genre": "",
+        "type": "Book"
+    },
+    {
+        "item_id": "8",
+        "title": "ali ai",
+        "author": "aaa",
+        "available": true,
+        "genre": "vvv",
+        "type": "Book"
+    }
+]

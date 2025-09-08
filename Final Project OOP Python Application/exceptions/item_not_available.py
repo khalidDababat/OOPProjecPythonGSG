@@ -1,0 +1,4 @@
+
+
+class ItemNotAvailableError(Exception):
+    pass
